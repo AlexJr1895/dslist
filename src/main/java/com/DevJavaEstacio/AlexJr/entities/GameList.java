@@ -17,7 +17,7 @@ public class GameList {
 	private Long id;
 	private String name;
 	
-	public Game() {
+	public GameList() {
 	}
 
 	public GameList(Long id, String name) {
