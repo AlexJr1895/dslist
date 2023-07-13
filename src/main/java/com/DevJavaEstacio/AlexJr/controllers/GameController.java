@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.DevJavaEstacio.AlexJr.entities.Game;
+import com.DevJavaEstacio.AlexJr.dto.GameMinDTO;
 import com.DevJavaEstacio.AlexJr.services.GameService;
 
 @RestController
